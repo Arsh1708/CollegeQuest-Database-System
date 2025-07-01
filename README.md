@@ -67,6 +67,8 @@ Code to make these table structures are given in the **admin.py** and **user_det
 ### How to Use:
 The `user_details.table.py` and `admin.py` scripts use `mysql.connector` to create and manage MySQL tables for users and administrators.
 
+Download all `.txt files` from the College_files folder and place them in the same directory as your .py scripts to ensure proper file handling and access.
+
 To get started, run `pytfile.py` in your terminal. You'll be greeted with:
 
 > Welcome to Careers Camp
